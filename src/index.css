@@ -1,0 +1,16 @@
+:root {
+  --primary: #0b0b0b;
+  --secondary: #1ac9b5;
+  font-family: "Poppins", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box #1f75b7;
+}
+
+body {
+  color: var(--secondary);
+  background-color: var(--primary);
+}
