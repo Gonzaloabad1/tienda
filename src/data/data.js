@@ -47,7 +47,12 @@ const articulos = [
     photo: "https://images.ecestaticos.com/a8P8LNFVX1OHw7NeyAufNMNOIu4=/0x0:640x361/996x560/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fff9%2F3fa%2F3d5%2Fff93fa3d511489a854de957870b79756.jpg",
     descripcion: "Los auriculares de Fnatic React+ cuentan con una tarjeta de sonido 7.1 y cancelación de ruido"
   },
-
+ {
+    name: "Teclado Mecanico Mars",
+    price: 29.00,
+    photo: "https://keepcoding.io/wp-content/uploads/2016/12/teclado-mecanico-Mars-Gaming-MKXTKLBES-450x279.jpg",
+    descripcion: "Teclado inalambrico para portatill"
+  },
 ];
 
   export default articulos
