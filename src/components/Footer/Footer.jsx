@@ -3,7 +3,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer>
-      <p>©Code Couture 2023</p>
+      <p>©Code Countre 2023</p>
     </footer>
   );
 };
